@@ -1,8 +1,8 @@
 # import requests
 # import os
 
-# # CLIENT_ID = 'cdc5fa809b44443d9ab30f975f61ec9d'
-# # CLIENT_SECRET = '99674e269fba4c96a78e294eaf6a1a77'
+# # CLIENT_ID = 'add keys'
+# # CLIENT_SECRET = 'Add keys'
 
 # CLIENT_ID = os.environ.get('SPOTIFY_CLIENT_ID')
 # CLIENT_SECRET = os.environ.get('SPOTIFY_CLIENT_SECRET')
@@ -63,8 +63,8 @@
 import requests
 # import os
 
-CLIENT_ID = 'cdc5fa809b44443d9ab30f975f61ec9d'
-CLIENT_SECRET = '99674e269fba4c96a78e294eaf6a1a77'
+CLIENT_ID = 'add keys'
+CLIENT_SECRET = 'add keys'
 
 # CLIENT_ID = os.environ.get('SPOTIFY_CLIENT_ID')
 # CLIENT_SECRET = os.environ.get('SPOTIFY_CLIENT_SECRET')
